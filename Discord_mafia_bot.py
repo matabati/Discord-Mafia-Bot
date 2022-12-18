@@ -66,7 +66,7 @@ j = 0
 is_night = 0
 
 #bot token
-bot = lightbulb.BotApp(token='MTAwMzY3MTIwMjc0Njg2MzY2Ng.GzDqa6.l3R_1dKb9flXHwq9vwSk2c-jBHav44gnv28p3E')
+bot = lightbulb.BotApp(token=///)
 
 
 #bot setting
